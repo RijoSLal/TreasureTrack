@@ -3,4 +3,6 @@ pandas
 numpy
 yfinance
 plotly
-neuralprophet
+neuralprophet==0.9.0
+holidays==0.27
+
