@@ -3,7 +3,7 @@ streamlit==1.39.0
 joblib==1.4.2
 pandas==2.2.3
 scikit-learn==1.2.2
-neuralprophet==0.3.4
+neuralprophet
 holidays>=0.22
 yfinance==0.2.30
 plotly==5.13.1
