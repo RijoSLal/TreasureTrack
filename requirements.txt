@@ -4,4 +4,3 @@ numpy
 yfinance
 plotly
 neuralprophet
-torch
