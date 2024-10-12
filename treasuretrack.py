@@ -133,7 +133,7 @@ stocks_dict = {
 
 selected_stocks=st.selectbox('Select Stocks',stocks)
 
-n_days=st.slider("days of prediction",2,300)
+n_days=st.slider("Prediction timeframe",2,300)
 
 @st.cache_data
 def load_data(stk):
