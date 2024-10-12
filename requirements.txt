@@ -4,4 +4,4 @@ numpy
 yfinance
 plotly
 neuralprophet==0.8.0
-holidays==0.27
+holidays>=0.41
