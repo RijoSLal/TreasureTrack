@@ -1,5 +1,3 @@
-### README.md
-
 # TreasureTrack
 
 **TreasureTrack** is a Streamlit-based web application designed to forecast stock prices using the NeuralProphet model. It allows users to select from a range of popular stocks, view their historical price data, and predict future prices over a customizable number of days.
@@ -76,8 +74,3 @@ Make sure you have the following installed:
 ### License
 
 © гเן๏ ร lคl
-numpy
-yfinance
-neuralprophet
-plotly
-```
