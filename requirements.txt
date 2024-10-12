@@ -1,9 +1,7 @@
-setuptools>=58.0.4
-streamlit==1.39.0
-joblib==1.4.2
-pandas==2.2.3
-scikit-learn==1.2.2
-neuralprophet
-holidays>=0.22
-yfinance==0.2.30
-plotly==5.13.1
+streamlit==1.27.0
+pandas==2.1.1
+numpy==1.26.0
+yfinance==0.2.31
+plotly==5.17.0
+neuralprophet==0.5.1
+torch==2.1.0
