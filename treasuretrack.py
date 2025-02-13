@@ -155,7 +155,7 @@ data.rename(columns={'Date': 'ds', 'Close': 'y'}, inplace=True)
 data = data[["ds", "y"]]
 
 data_loading=st.text("Loading...")
-model = NeuralProphet()
+model = NeuralProphet(learning_rate=None)
 model.fit(data)
 data_loading.text("Loading done...")
 
