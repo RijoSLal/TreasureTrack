@@ -3,5 +3,6 @@ pandas
 numpy
 yfinance
 plotly
+neuralprophet==0.8.0
 holidays>=0.41
-torch==2.5.0 neuralprophet
+torch==2.5.0 
